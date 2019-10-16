@@ -1,0 +1,32 @@
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Interpolated neutron pulse shapes. Black dots indicate raw sample points, the blue curve is a natural spline interpolation, and the red curve is the constrained spline. The green curve indicates the final combined result. The horizontal dashed lines indicate the 10\%, and 20\% pulse height levels.}}{7}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Comparison of neutron and gamma pulse shapes. Vertical dashed lines indicate the integration range used for the PSD.}}{9}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Neutron PSD plot for detector NU03. Three PSD cuts with various levels of strictness are indicated by the colored lines.}}{10}
+\addvspace {5\p@ }
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Entrance autocorrelation simulation}}{14}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Fit to entrance vs kick correlation plot. The data is shown in black, the fit is in red, and blue shows the fit with the oscillations disabled.}}{16}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Background spike produced by the sum (black) of neutron (red) and gamma (blue) signals. }}{21}
+\addvspace {5\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Full muon kinetics in $D_2$ gas. Neutron emissions are highlighted in blue.}}{23}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Expected deuterium capture neutron time distribution due to muon kinetics.}}{24}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Expected deuterium $^3He$ fusion neutron time distribution due to muon kinetics.}}{25}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Left: 1D S-energy plot for neutron events, with and without a fiducial cut. Right: 2D cuts defined based on S- and T-energy. The black line is defined based on the fusion distribution, while the red is defined based on the captures.}}{26}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Comparison of observed fusion and capture neutron energies.}}{27}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Neutron background signal for R2015 data.}}{31}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces ePC $\phi $ vs Z for all R2015 data (left) and for events with a coincident neutron detector hit (right).}}{34}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Atomic capture gamma energy spectra from R2016 calibration data.}}{36}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Gamma background signal for R2015 data.}}{37}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces RF oscillation histogram with fit to sine waves with constant backgrounds. The $\chi ^2$ value is poor because the slopes of the background are not modeled, but the oscillation parameters should be reliable.}}{39}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces PSD plots with either atomic capture gammas (left) or wall stop and fusion neutrons selected (right)}}{40}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces PSD plots of the estimated true gamma (left) and neutron bands (right)}}{41}
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Combined fit to all detector channels for R2015 stops in the ROI.}}{44}
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Neutron wall stop calibration setup, with a block of macor as the target.}}{51}
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Electron (1), Neutron (2), and Gamma (3) yields observed for various target materials, with an ideal muon decay curve shown for comparison. Panel 4 shows a close-up of the gamma signal to show the prompt ACG signal.}}{52}
+\contentsline {figure}{\numberline {8.16}{\ignorespaces Wall stop X scan.}}{53}
+\contentsline {figure}{\numberline {8.17}{\ignorespaces Wall stop Y-Z scan.}}{54}
+\contentsline {figure}{\numberline {8.18}{\ignorespaces Estimated wall stop fraction required for a $1 s^{-1}$ rate shift, from simulation.}}{55}

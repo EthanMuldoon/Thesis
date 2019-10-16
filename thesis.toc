@@ -1,0 +1,45 @@
+\contentsline {chapter}{\@textofLoF }{iii}
+\contentsline {chapter}{\numberline {\@textofChapter \ 1:}Introduction}{1}
+\contentsline {chapter}{\numberline {\@textofChapter \ 2:}Theory and Motivation}{2}
+\contentsline {chapter}{\numberline {\@textofChapter \ 3:}Experimental Design}{3}
+\contentsline {chapter}{\numberline {\@textofChapter \ 4:}Experimental Apparatus}{4}
+\contentsline {chapter}{\numberline {\@textofChapter \ 5:}Software and Analysis}{5}
+\contentsline {section}{\numberline {5.1}Neutron Detectors}{5}
+\contentsline {subsection}{\numberline {5.1.1}Pulse Interpolation}{5}
+\contentsline {subsection}{\numberline {5.1.2}Standard Cuts}{6}
+\contentsline {subsection}{\numberline {5.1.3}Pulse Shape Discrimination}{8}
+\contentsline {chapter}{\numberline {\@textofChapter \ 6:}Systematic Errors}{11}
+\contentsline {chapter}{\numberline {\@textofChapter \ 7:}Beam Background Model}{12}
+\contentsline {section}{\numberline {7.1}Kicker Time Dependence}{12}
+\contentsline {section}{\numberline {7.2}Muon Background}{14}
+\contentsline {section}{\numberline {7.3}Neutron Background}{17}
+\contentsline {section}{\numberline {7.4}Electron Background}{18}
+\contentsline {section}{\numberline {7.5}Gamma Background}{20}
+\contentsline {section}{\numberline {7.6}Combined Backgrounds}{20}
+\contentsline {chapter}{\numberline {\@textofChapter \ 8:}Neutron Analysis}{22}
+\contentsline {section}{\numberline {8.1}Neutron Sources}{22}
+\contentsline {subsection}{\numberline {8.1.1}Muon Capture in Deuterium}{22}
+\contentsline {subsection}{\numberline {8.1.2}Muon Catalyzed Fusion}{25}
+\contentsline {subsection}{\numberline {8.1.3}Muon Capture on Other Materials}{28}
+\contentsline {subsection}{\numberline {8.1.4}Beam Background}{30}
+\contentsline {subsection}{\numberline {8.1.5}Photo-Neutrons}{32}
+\contentsline {section}{\numberline {8.2}Gamma Sources}{33}
+\contentsline {subsection}{\numberline {8.2.1}Decay Electron Bremsstrahlung}{33}
+\contentsline {subsection}{\numberline {8.2.2}Nuclear Capture}{34}
+\contentsline {subsection}{\numberline {8.2.3}Atomic Capture}{35}
+\contentsline {subsection}{\numberline {8.2.4}Beam Background}{37}
+\contentsline {section}{\numberline {8.3}PSD Calibration}{38}
+\contentsline {section}{\numberline {8.4}Time Distribution Fitting}{42}
+\contentsline {subsection}{\numberline {8.4.1}Signal Models}{42}
+\contentsline {subsection}{\numberline {8.4.2}Free Parameter Reduction}{43}
+\contentsline {subsubsection}{Simultaneous Fitting}{44}
+\contentsline {subsubsection}{Timing}{45}
+\contentsline {subsubsection}{Solid Angle Correction}{46}
+\contentsline {section}{\numberline {8.5}Kinetics Calibration}{48}
+\contentsline {subsection}{\numberline {8.5.1}Fusion Neutrons}{48}
+\contentsline {subsection}{\numberline {8.5.2}Deuterium Capture}{48}
+\contentsline {section}{\numberline {8.6}Wall Stop Analysis}{48}
+\contentsline {subsection}{\numberline {8.6.1}Fit Procedures}{48}
+\contentsline {subsection}{\numberline {8.6.2}R2016 Calibrations}{50}
+\contentsline {subsection}{\numberline {8.6.3}Results}{53}
+\contentsline {subsection}{\numberline {8.6.4}Lifetime}{54}

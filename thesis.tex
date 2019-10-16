@@ -1,0 +1,40 @@
+% LaTeX thesis control file
+
+\documentclass [12pt, proquest]{uwthesis}[2014/11/13]
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+% preliminary pages
+%
+\prelimpages
+\include{prelim}
+
+% text pages
+%
+\textpages
+\include{introduction/chapter}
+\include{theory/chapter}
+\include{design/chapter}
+\include{experiment/chapter}
+\include{software/chapter}
+\include{systematics/chapter}
+\include{beam/chapter}
+\include{neutrons/chapter}
+%\include{fusion/chapter}
+%\include{conclusion/chapter}
+
+% bibliography
+%
+\bibliographystyle{plain}
+\bibliography{thesis}
+
+% appendices
+%
+\appendix
+
+%\include{appxb}
+
+%\include{vita}
+\end{document}
